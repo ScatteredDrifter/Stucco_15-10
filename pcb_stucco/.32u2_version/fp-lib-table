@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "silkscreens")(type "KiCad")(uri "/home/fabian/nextcloud/tech-cluster/KEYBOARDS/own/silkscreens")(options "")(descr ""))
+)
